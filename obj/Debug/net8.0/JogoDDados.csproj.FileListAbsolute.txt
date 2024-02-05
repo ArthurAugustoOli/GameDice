@@ -1,0 +1,14 @@
+C:\Users\arthu\OneDrive\Área de Trabalho\CURSOS\C#\Atividades\GameDice\obj\Debug\net8.0\JogoDDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\OneDrive\Área de Trabalho\CURSOS\C#\Atividades\GameDice\obj\Debug\net8.0\JogoDDados.AssemblyInfoInputs.cache
+C:\Users\arthu\OneDrive\Área de Trabalho\CURSOS\C#\Atividades\GameDice\obj\Debug\net8.0\JogoDDados.AssemblyInfo.cs
+C:\Users\arthu\OneDrive\Área de Trabalho\CURSOS\C#\Atividades\GameDice\obj\Debug\net8.0\JogoDDados.csproj.CoreCompileInputs.cache
+C:\Users\arthu\OneDrive\Área de Trabalho\CURSOS\C#\Atividades\GameDice\bin\Debug\net8.0\JogoDDados.exe
+C:\Users\arthu\OneDrive\Área de Trabalho\CURSOS\C#\Atividades\GameDice\bin\Debug\net8.0\JogoDDados.deps.json
+C:\Users\arthu\OneDrive\Área de Trabalho\CURSOS\C#\Atividades\GameDice\bin\Debug\net8.0\JogoDDados.runtimeconfig.json
+C:\Users\arthu\OneDrive\Área de Trabalho\CURSOS\C#\Atividades\GameDice\bin\Debug\net8.0\JogoDDados.dll
+C:\Users\arthu\OneDrive\Área de Trabalho\CURSOS\C#\Atividades\GameDice\bin\Debug\net8.0\JogoDDados.pdb
+C:\Users\arthu\OneDrive\Área de Trabalho\CURSOS\C#\Atividades\GameDice\obj\Debug\net8.0\JogoDDados.dll
+C:\Users\arthu\OneDrive\Área de Trabalho\CURSOS\C#\Atividades\GameDice\obj\Debug\net8.0\refint\JogoDDados.dll
+C:\Users\arthu\OneDrive\Área de Trabalho\CURSOS\C#\Atividades\GameDice\obj\Debug\net8.0\JogoDDados.pdb
+C:\Users\arthu\OneDrive\Área de Trabalho\CURSOS\C#\Atividades\GameDice\obj\Debug\net8.0\JogoDDados.genruntimeconfig.cache
+C:\Users\arthu\OneDrive\Área de Trabalho\CURSOS\C#\Atividades\GameDice\obj\Debug\net8.0\ref\JogoDDados.dll
